@@ -2,7 +2,7 @@
 - 👀 I’m interested in utilichains
 - 🌱 I’m currently learning to use what I know
 - 💞️ I’m looking to collaborate on building a game engine, working on rpg maker vx ace, but have a plethora of game engines and assets. And a lot of games in working paper  
-- 📫 How to reach me cabbage@cbt36.com
+- 📫 How to reach me cabbages@cbt36.com
 
 <!---
 SirFlickka/SirFlickka is the ✨ Durpa Skurpa ✨ repository because its `README.md` (this file) appears on your GitHub profile.
